@@ -20,3 +20,5 @@
 2. Beacon Listen 구현
     1. ***Beacon 라이브러리 초기화***
     2. ***Beacon 수신하기***
+
+3. ***GetX 연동***
